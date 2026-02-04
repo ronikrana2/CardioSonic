@@ -39,7 +39,7 @@ heart-sound-classifier/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/heart-sound-classifier.git
+git clone https://github.com/ronikrana2/heart-sound-classifier.git
 cd heart-sound-classifier
 ```
 
