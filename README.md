@@ -39,8 +39,8 @@ heart-sound-classifier/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ronikrana2/heart-sound-classifier.git
-cd heart-sound-classifier
+git clone https://github.com/ronikrana2/CardioSonic.git
+cd CardioSonic
 ```
 
 2. Create a virtual environment (recommended):
